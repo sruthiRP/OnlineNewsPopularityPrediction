@@ -1,6 +1,11 @@
 # OnlineNewsPopularityPrediction
-Objective: To predict number of shares of online news articles based on various factors and provide insight to publishers /writers to know which factors influences the number of shares of the articles.
-Outcome: This analysis gives insights and key recommendations to make online articles more popular among the readers and this help publishers to make their articles popular.
+Objective: 
+
+To predict number of shares of online news articles based on various factors and provide insight to publishers /writers to know which factors influences the number of shares of the articles.
+
+Outcome: 
+
+This analysis gives insights and key recommendations to make online articles more popular among the readers and this help publishers to make their articles popular.
 
 Attribute Information in Dataset are as follows:
 
